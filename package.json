@@ -1,0 +1,15 @@
+{
+  "name": "rick_morty_site",
+  "version": "1.0.0",
+  "description": "Landing page de rick & morty con vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
